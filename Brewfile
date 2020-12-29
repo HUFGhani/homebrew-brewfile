@@ -9,10 +9,13 @@ brew "nvm"
 brew "the_silver_searcher"
 brew "wget"
 brew "yarn"
+brew "zplug"
 brew "zsh"
 cask "google-chrome"
+cask "insomnia"
 cask "iterm2"
 cask "visual-studio-code"
+cask "whatsapp"
 mas "AdBlock", id: 1402042596
 mas "Grammarly for Safari", id: 1462114288
 mas "iMovie", id: 408981434
